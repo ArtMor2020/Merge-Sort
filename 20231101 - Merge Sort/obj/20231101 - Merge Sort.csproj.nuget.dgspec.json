@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/20231101 - Merge Sort.csproj": {}
+    "/home/arthur/Documents/Merge-Sort/20231101 - Merge Sort/20231101 - Merge Sort.csproj": {}
   },
   "projects": {
-    "/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/20231101 - Merge Sort.csproj": {
+    "/home/arthur/Documents/Merge-Sort/20231101 - Merge Sort/20231101 - Merge Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/20231101 - Merge Sort.csproj",
+        "projectUniqueName": "/home/arthur/Documents/Merge-Sort/20231101 - Merge Sort/20231101 - Merge Sort.csproj",
         "projectName": "20231101 - Merge Sort",
-        "projectPath": "/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/20231101 - Merge Sort.csproj",
+        "projectPath": "/home/arthur/Documents/Merge-Sort/20231101 - Merge Sort/20231101 - Merge Sort.csproj",
         "packagesPath": "/home/arthur/.nuget/packages/",
-        "outputPath": "/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/",
+        "outputPath": "/home/arthur/Documents/Merge-Sort/20231101 - Merge Sort/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/arthur/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
         }
       }
     }
