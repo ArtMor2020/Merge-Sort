@@ -1,0 +1,15 @@
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/bin/Debug/net7.0/20231101 - Merge Sort
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/bin/Debug/net7.0/20231101 - Merge Sort.deps.json
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/bin/Debug/net7.0/20231101 - Merge Sort.runtimeconfig.json
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/bin/Debug/net7.0/20231101 - Merge Sort.dll
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/bin/Debug/net7.0/20231101 - Merge Sort.pdb
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/20231101 - Merge Sort.csproj.AssemblyReference.cache
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/20231101 - Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/20231101 - Merge Sort.AssemblyInfoInputs.cache
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/20231101 - Merge Sort.AssemblyInfo.cs
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/20231101 - Merge Sort.csproj.CoreCompileInputs.cache
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/20231101 - Merge Sort.dll
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/refint/20231101 - Merge Sort.dll
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/20231101 - Merge Sort.pdb
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/20231101 - Merge Sort.genruntimeconfig.cache
+/home/arthur/Documents/EstruturaDadosI/Atividades/20231101 - Merge Sort/obj/Debug/net7.0/ref/20231101 - Merge Sort.dll
